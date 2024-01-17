@@ -1,6 +1,7 @@
 # UVU_DGM1610_Spring_2024
 Scripting for Gaming and Animation
 
+https://github.com/TylerStevenson44/UVU_DGM1610_Spring_2024
 _                             
 |__|__ __  ____   ____   ____   
 |  |  |  \/    \ /    \ /  _ \  
